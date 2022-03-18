@@ -7,6 +7,9 @@ description = "Device Support Crate for NXP S32K144 Devices"
 keywords = ["s32k144", "nxp", "svd2rust", "no_std", "embedded"]
 categories = ["embedded", "no-std"]
 license = "MIT"
+documentation = "https://docs.rs/s32k144-pac"
+repository = "https://github.com/wcpannell/s32k1-pacs"
+readme = "../README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
