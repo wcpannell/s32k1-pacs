@@ -1,0 +1,22 @@
+[package]
+name = "s32k148-pac"
+version = "0.1.0"
+authors = ["W. Clayton Pannell <clayton.pannell@gmail.com>"]
+edition = "2021"
+description = "Device Support Crate for NXP S32K148 Devices"
+keywords = ["s32k148", "nxp", "svd2rust", "no_std", "embedded"]
+categories = ["embedded", "no-std"]
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cortex-m = "0.7"
+vcell = "0.1.2"
+
+[dependencies.cortex-m-rt]
+optional = true
+version = "0.6.13"
+
+[features]
+rt = ["cortex-m-rt/device"]
