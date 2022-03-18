@@ -4,20 +4,20 @@ This repository generates the Peripheral Access Crates (PACs) for the S32K1 seri
 
 Each PAC supports its sub-family of microcontrollers as defined by the SVD files:
 
-  * S32K116 [![docs.rs](https://docs.rs/s32k116-pac/badge.svg)](https://docs.rs/s32k116) [![crates.io](https://img.shields.io/crates/v/s32k116-pac.svg)](https://crates.io/crates/s32k116) [![crates.io](https://img.shields.io/crates/d/s32k116-pac.svg)](https://crates.io/crates/s32k116)  
-  * S32K118 [![docs.rs](https://docs.rs/s32k118-pac/badge.svg)](https://docs.rs/s32k118) [![crates.io](https://img.shields.io/crates/v/s32k118-pac.svg)](https://crates.io/crates/s32k118) [![crates.io](https://img.shields.io/crates/d/s32k118-pac.svg)](https://crates.io/crates/s32k118)
+  * S32K116 [![docs.rs](https://docs.rs/s32k116-pac/badge.svg)](https://docs.rs/s32k116-pac) [![crates.io](https://img.shields.io/crates/v/s32k116-pac.svg)](https://crates.io/crates/s32k116-pac) [![crates.io](https://img.shields.io/crates/d/s32k116-pac.svg)](https://crates.io/crates/s32k116-pac)  
+  * S32K118 [![docs.rs](https://docs.rs/s32k118-pac/badge.svg)](https://docs.rs/s32k118-pac) [![crates.io](https://img.shields.io/crates/v/s32k118-pac.svg)](https://crates.io/crates/s32k118-pac) [![crates.io](https://img.shields.io/crates/d/s32k118-pac.svg)](https://crates.io/crates/s32k118-pac)
 
-  * S32K142 [![docs.rs](https://docs.rs/s32k142-pac/badge.svg)](https://docs.rs/s32k142) [![crates.io](https://img.shields.io/crates/v/s32k142-pac.svg)](https://crates.io/crates/s32k142) [![crates.io](https://img.shields.io/crates/d/s32k142-pac.svg)](https://crates.io/crates/s32k142)
+  * S32K142 [![docs.rs](https://docs.rs/s32k142-pac/badge.svg)](https://docs.rs/s32k142-pac) [![crates.io](https://img.shields.io/crates/v/s32k142-pac.svg)](https://crates.io/crates/s32k142-pac) [![crates.io](https://img.shields.io/crates/d/s32k142-pac.svg)](https://crates.io/crates/s32k142-pac)
 
-  * S32K144 [![docs.rs](https://docs.rs/s32k144-pac/badge.svg)](https://docs.rs/s32k144) [![crates.io](https://img.shields.io/crates/v/s32k144-pac.svg)](https://crates.io/crates/s32k144) [![crates.io](https://img.shields.io/crates/d/s32k144-pac.svg)](https://crates.io/crates/s32k144)
+  * S32K144 [![docs.rs](https://docs.rs/s32k144-pac/badge.svg)](https://docs.rs/s32k144-pac) [![crates.io](https://img.shields.io/crates/v/s32k144-pac.svg)](https://crates.io/crates/s32k144-pac) [![crates.io](https://img.shields.io/crates/d/s32k144-pac.svg)](https://crates.io/crates/s32k144-pac)
 
-  * S32K146 [![docs.rs](https://docs.rs/s32k146-pac/badge.svg)](https://docs.rs/s32k146) [![crates.io](https://img.shields.io/crates/v/s32k146-pac.svg)](https://crates.io/crates/s32k146) [![crates.io](https://img.shields.io/crates/d/s32k146-pac.svg)](https://crates.io/crates/s32k146)
+  * S32K146 [![docs.rs](https://docs.rs/s32k146-pac/badge.svg)](https://docs.rs/s32k146-pac) [![crates.io](https://img.shields.io/crates/v/s32k146-pac.svg)](https://crates.io/crates/s32k146-pac) [![crates.io](https://img.shields.io/crates/d/s32k146-pac.svg)](https://crates.io/crates/s32k146-pac)
 
-  * S32K148 [![docs.rs](https://docs.rs/s32k148-pac/badge.svg)](https://docs.rs/s32k148) [![crates.io](https://img.shields.io/crates/v/s32k148-pac.svg)](https://crates.io/crates/s32k148) [![crates.io](https://img.shields.io/crates/d/s32k148-pac.svg)](https://crates.io/crates/s32k148)
+  * S32K148 [![docs.rs](https://docs.rs/s32k148-pac/badge.svg)](https://docs.rs/s32k148-pac) [![crates.io](https://img.shields.io/crates/v/s32k148-pac.svg)](https://crates.io/crates/s32k148-pac) [![crates.io](https://img.shields.io/crates/d/s32k148-pac.svg)](https://crates.io/crates/s32k148-pac)
 
-  * S32K142W [![docs.rs](https://docs.rs/s32k142w-pac/badge.svg)](https://docs.rs/s32k142w) [![crates.io](https://img.shields.io/crates/v/s32k142w-pac.svg)](https://crates.io/crates/s32k142w) [![crates.io](https://img.shields.io/crates/d/s32k142w-pac.svg)](https://crates.io/crates/s32k142w)
+  * S32K142W [![docs.rs](https://docs.rs/s32k142w-pac/badge.svg)](https://docs.rs/s32k142w-pac) [![crates.io](https://img.shields.io/crates/v/s32k142w-pac.svg)](https://crates.io/crates/s32k142w-pac) [![crates.io](https://img.shields.io/crates/d/s32k142w-pac.svg)](https://crates.io/crates/s32k142w-pac)
 
-* S32K144W [![docs.rs](https://docs.rs/s32k144w-pac/badge.svg)](https://docs.rs/s32k144w) [![crates.io](https://img.shields.io/crates/v/s32k144w-pac.svg)](https://crates.io/crates/s32k144w) [![crates.io](https://img.shields.io/crates/d/s32k144w-pac.svg)](https://crates.io/crates/s32k144w)
+* S32K144W [![docs.rs](https://docs.rs/s32k144w-pac/badge.svg)](https://docs.rs/s32k144w-pac) [![crates.io](https://img.shields.io/crates/v/s32k144w-pac.svg)](https://crates.io/crates/s32k144w-pac) [![crates.io](https://img.shields.io/crates/d/s32k144w-pac.svg)](https://crates.io/crates/s32k144w-pac)
 
 ## Examples
 
